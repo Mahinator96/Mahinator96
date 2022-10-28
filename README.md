@@ -1,16 +1,14 @@
-### Hi there 👋
+# Портфолио
+---
+Меня зовут __Евгений Васильев__ - я верстаю сайты. 
+Сейчас нахожусь в активном поиске работы.
 
-<!--
-**Mahinator96/Mahinator96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Вашему вниманию представляю свои работы для ознакомления. 
 
-Here are some ideas to get you started:
+--- 
+#### Сайты 
+* [Магазин по продаже гитар "Rhythm"](https://mahinator96.github.io/GUITAR-WEBSITE/)
+* [Детский планетарий "Digital Planet"](https://mahinator96.github.io/GUITAR-WEBSITE/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Со мной вы также можете связаться в [Вконтакте](https://vk.com/id460284285) или <a href="mailto:sta2na4alo@gmail.com">📫 _(gmail)_</a>
