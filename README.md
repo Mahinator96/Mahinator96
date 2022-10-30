@@ -11,4 +11,4 @@
 * [Детский планетарий "Digital Planet"](https://mahinator96.github.io/GUITAR-WEBSITE/)
 
 ---
-Со мной вы также можете связаться в [Вконтакте](https://vk.com/id460284285) или <a href="mailto:sta2na4alo@gmail.com">📫 _(gmail)_</a>
+Со мной вы также можете связаться в [Вконтакте](https://vk.com/id460284285) или <a href="mailto:sta2na4alo@gmail.com">📫 _(@gmail)_</a>
