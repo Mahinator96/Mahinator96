@@ -9,6 +9,7 @@
 #### Сайты 
 * [Магазин по продаже гитар "Rhythm"](https://mahinator96.github.io/GUITAR-WEBSITE/)
 * [Детский планетарий "Digital Planet"](https://mahinator96.github.io/GUITAR-WEBSITE/)
+* [Магазин по продаже Sup Board](https://mahinator96.github.io/sup/)
 
 ---
 Со мной вы также можете связаться в [Вконтакте](https://vk.com/id460284285) или <a href="mailto:sta2na4alo@gmail.com">📫 _(@gmail)_</a>
