@@ -7,7 +7,7 @@
 
 --- 
 #### Сайты 
-* [Сайт курорта "Go-serf"](https://mahinator96.github.io/go-serf/)
+* [Сайт курорта "Go-serf"](https://mahinator96.github.io/supboard/)
 * [Сайт проведения гонок "Lamborgini"](https://mahinator96.github.io/lamborgini/)
 * [Магазин по продаже Sup Board "Sup"](https://mahinator96.github.io/sup/)
 
